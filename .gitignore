@@ -302,3 +302,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+.ionide/
+
+TitanicData/.vscode/
